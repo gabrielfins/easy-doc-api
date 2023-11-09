@@ -1,0 +1,1 @@
+INSERT INTO medicos (id, nome, cpf, senha, data_nascimento, crm, especialidade, telefone, celular, email) VALUES ('1', 'Carlos Almeida', '12345678909', '$2a$10$0wfvoRM.9Nzkehau.9MP.OEL8314VEg35b9krb2VI5IcKreJwCHQa', '15051990', '123123', '0', '1133330000', '11999990000', 'carlos@example.com');
