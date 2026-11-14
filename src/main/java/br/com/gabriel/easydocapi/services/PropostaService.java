@@ -1,7 +1,7 @@
-package br.com.gabriel.shiftsmanagerapi.services;
+package br.com.gabriel.easydocapi.services;
 
-import br.com.gabriel.shiftsmanagerapi.models.Proposta;
-import br.com.gabriel.shiftsmanagerapi.repositories.PropostaRepository;
+import br.com.gabriel.easydocapi.models.Proposta;
+import br.com.gabriel.easydocapi.repositories.PropostaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

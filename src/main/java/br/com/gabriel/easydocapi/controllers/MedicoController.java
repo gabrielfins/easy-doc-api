@@ -1,8 +1,8 @@
-package br.com.gabriel.shiftsmanagerapi.controllers;
+package br.com.gabriel.easydocapi.controllers;
 
-import br.com.gabriel.shiftsmanagerapi.dto.LoginDTO;
-import br.com.gabriel.shiftsmanagerapi.models.Medico;
-import br.com.gabriel.shiftsmanagerapi.services.MedicoService;
+import br.com.gabriel.easydocapi.dto.LoginDTO;
+import br.com.gabriel.easydocapi.models.Medico;
+import br.com.gabriel.easydocapi.services.MedicoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

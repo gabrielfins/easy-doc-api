@@ -1,4 +1,4 @@
-package br.com.gabriel.shiftsmanagerapi.models;
+package br.com.gabriel.easydocapi.models;
 
 import jakarta.persistence.*;
 

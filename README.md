@@ -42,7 +42,7 @@ Pré-requisito: JDK 17.
 (no Windows: `mvnw.cmd spring-boot:run`)
 
 - API: `http://localhost:8000/api`
-- Console do H2: `http://localhost:8000/api/h2-console` (JDBC URL `jdbc:h2:mem:shifts-manager`)
+- Console do H2: `http://localhost:8000/api/h2-console` (JDBC URL `jdbc:h2:mem:easy-doc`)
 - Dados de exemplo: `src/main/resources/import.sql`
 
 Para rodar os testes:

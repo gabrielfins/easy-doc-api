@@ -1,4 +1,4 @@
-package br.com.gabriel.shiftsmanagerapi.config;
+package br.com.gabriel.easydocapi.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

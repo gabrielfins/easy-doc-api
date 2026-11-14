@@ -1,10 +1,10 @@
-package br.com.gabriel.shiftsmanagerapi;
+package br.com.gabriel.easydocapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShiftsManagerApiApplicationTests {
+class EasyDocApiApplicationTests {
 
 	@Test
 	void contextLoads() {

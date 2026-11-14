@@ -1,7 +1,7 @@
-package br.com.gabriel.shiftsmanagerapi.controllers;
+package br.com.gabriel.easydocapi.controllers;
 
-import br.com.gabriel.shiftsmanagerapi.models.Proposta;
-import br.com.gabriel.shiftsmanagerapi.services.PropostaService;
+import br.com.gabriel.easydocapi.models.Proposta;
+import br.com.gabriel.easydocapi.services.PropostaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

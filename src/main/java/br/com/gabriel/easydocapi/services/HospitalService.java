@@ -1,8 +1,8 @@
-package br.com.gabriel.shiftsmanagerapi.services;
+package br.com.gabriel.easydocapi.services;
 
-import br.com.gabriel.shiftsmanagerapi.dto.LoginDTO;
-import br.com.gabriel.shiftsmanagerapi.models.Hospital;
-import br.com.gabriel.shiftsmanagerapi.repositories.HospitalRepository;
+import br.com.gabriel.easydocapi.dto.LoginDTO;
+import br.com.gabriel.easydocapi.models.Hospital;
+import br.com.gabriel.easydocapi.repositories.HospitalRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

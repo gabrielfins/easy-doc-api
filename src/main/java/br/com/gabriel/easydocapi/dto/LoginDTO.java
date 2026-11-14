@@ -1,4 +1,4 @@
-package br.com.gabriel.shiftsmanagerapi.dto;
+package br.com.gabriel.easydocapi.dto;
 
 import jakarta.validation.constraints.Email;
 

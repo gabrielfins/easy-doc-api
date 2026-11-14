@@ -1,13 +1,13 @@
-package br.com.gabriel.shiftsmanagerapi;
+package br.com.gabriel.easydocapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShiftsManagerApiApplication {
+public class EasyDocApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShiftsManagerApiApplication.class, args);
+		SpringApplication.run(EasyDocApiApplication.class, args);
 	}
 
 }
